@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(138, 159, 184);
+}
+#pickedColors,
+#preferedColors {
+  background-color: rgba(255, 255, 255, 0.504);
+  border-radius: 10px;
+  width: 80vw;
+  height: 30vh;
+}
+
+input {
+  border-radius: 10px;
+  border: 0;
+  font-size: 20px;
+}
+#inputs {
+  text-align: center;
+}
+
+span {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.star {
+  font-size: 22px;
+}
+
+button {
+  border-radius: 10px;
+  border: none;
+  padding: 3px;
+  font-size: 20px;
+}

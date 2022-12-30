@@ -1,0 +1,40 @@
+body {
+  background: rgb(235, 211, 169);
+}
+.animal-show-case img {
+  width: 70px;
+  cursor: pointer;
+}
+
+#btn-start {
+  margin-left: 47%;
+  margin-right: 47%;
+  margin-top: 5%;
+  min-width: 40px;
+  background-color: rgb(229, 105, 196);
+}
+#random-btn {
+  margin-left: 46.6%;
+  margin-right: 47%;
+  background-color: rgb(222, 250, 37);
+  min-width: 40px;
+}
+
+#choose-p {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.animal-show-case {
+  width: 90vw;
+  border: 1px solid black;
+  border-right: 0px;
+}
+
+#winner {
+  text-align: center;
+  margin: 5px;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(113, 32, 32);
+}
